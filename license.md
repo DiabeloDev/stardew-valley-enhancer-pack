@@ -144,4 +144,4 @@ tool completely — there is no uninstaller and no registry entry.
 
 ---
 
-*stardew-valley-enhancer-pack · Updated 2026-11-10 · Shared under the MIT License*
+*stardew-valley-enhancer-pack · Updated 2026-11-11 · Shared under the MIT License*
